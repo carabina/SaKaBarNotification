@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
   s.name         = "SaKaBarNotification"
 
-  s.version      = "v1.0.0"
+  s.version      = "1.0.1"
 
   s.summary      = "A Notification Label for NavigationBar Or StatusBar"
 
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "8.0"
 
-  s.source       = { :git => "https://github.com/WeiKunChao/SaKaBarNotification.git", :tag => "v1.0.0" }
+  s.source       = { :git => "https://github.com/WeiKunChao/SaKaBarNotification.git", :tag => "1.0.1" }
 
   s.source_files  =  "BarNotification/**/*.{h,m}"
 
